@@ -37,11 +37,10 @@ A responsive, web-based music player that mimics the look and feel of Spotify. T
 
 ## 📸 Screenshots
 
-> _Add screenshots here to show off the UI_
+
 <br>
 <p align="center">
-  <img src="screenshots/home.png" width="600" />
-  <img src="screenshots/playlist.png" width="600" />
+  <img src="home.png" width="600" />
 </p>
 
 ---
